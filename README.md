@@ -6,7 +6,7 @@
 
 숫자를 크게 보이게 만드는 것보다 **그 숫자의 해석 범위를 명확히 하는 것**이 분석의 신뢰를 만든다고 생각합니다.
 
-**Portfolio:** [abovemin.com/portfolio/submission](https://abovemin.com/portfolio/submission)
+**Portfolio:** [www.abovemin.com/portfolio/submission](https://www.abovemin.com/portfolio/submission)
 
 **Email:** aquariusmin01@naver.com
 
